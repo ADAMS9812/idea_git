@@ -8,6 +8,7 @@ public class MainApp {
         System.out.println("hello");
         System.out.println();
 
+        //新增注释
         List list = new ArrayList<>();
 
     }
