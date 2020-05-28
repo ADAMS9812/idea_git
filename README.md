@@ -6,3 +6,4 @@ idea_git project
 - 这个母鸡
 
 - change from remotes
+- change from local
