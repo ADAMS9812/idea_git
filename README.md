@@ -5,4 +5,4 @@ idea_git project
 - 这个不错
 - 这个母鸡
 
-- change from remote
+- change from local
