@@ -5,5 +5,4 @@ idea_git project
 - 这个不错
 - 这个母鸡
 
-- 这里是真的不一样了
-- 对啊哪里不一样
+- change from remote
